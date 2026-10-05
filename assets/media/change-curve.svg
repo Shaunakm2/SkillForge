@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" font-family="Poppins, Arial, sans-serif">
+<rect width="640" height="300" rx="20" fill="#FBF7F0"/>
+<text x="32" y="40" font-size="16" font-weight="700" fill="#2B2118">Team performance during a change</text>
+<line x1="60" y1="70" x2="60" y2="250" stroke="#D9CBB6" stroke-width="2"/><line x1="60" y1="250" x2="610" y2="250" stroke="#D9CBB6" stroke-width="2"/>
+<text x="20" y="160" font-size="12" fill="#75655A" transform="rotate(-90 20 160)">Morale and performance</text>
+<text x="560" y="272" font-size="12" fill="#75655A">Time</text>
+<path d="M70 120 C 130 95, 160 95, 200 130 S 260 225, 320 228 S 420 170, 470 130 S 560 80, 600 78" fill="none" stroke="#F2A93B" stroke-width="5" stroke-linecap="round"/>
+<line x1="200" y1="250" x2="200" y2="262" stroke="#75655A"/><text x="200" y="278" font-size="12" text-anchor="middle" fill="#75655A">Announcement</text>
+<circle cx="318" cy="228" r="9" fill="#E8664A"/>
+<path d="M380 186 L 334 220" stroke="#E8664A" stroke-width="3"/><path d="M334 220 l 4 -12 l 8 9 z" fill="#E8664A"/>
+<rect x="372" y="160" width="40" height="26" rx="8" fill="#E8664A"/><text x="392" y="178" font-size="14" font-weight="700" text-anchor="middle" fill="#FFFFFF">?</text>
+</svg>
